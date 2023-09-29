@@ -4,7 +4,7 @@ Welcome to the Java Memory Management Workshop! In this workshop, you will embar
 
 ## Workshop Parts 
 
-### 1. Memory Model 
+### 1. ![JMM](https://github.com/mounirelbakkali1/java-memory-management-best-practice/tree/master/java-memory-model).Memory Model 
 Explore the fundamental concepts of Java's memory model. Understand how memory is allocated, divided, and utilized within the Java Virtual Machine (JVM).
 
 ### 2. Choosing the Right Data Structures 
