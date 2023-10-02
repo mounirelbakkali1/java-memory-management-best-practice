@@ -1,5 +1,9 @@
 # Java Memory Management Workshop
 
+
+
+>"It is not enough to know that knowledge exists; one must also know how to acquire it and apply it in meaningful ways."
+
 Welcome to the Java Memory Management Workshop! In this workshop, you will embark on a journey to enhance your knowledge of memory management in Java and become proficient in implementing best practices for efficient memory handling.
 
 ## Workshop Parts 
